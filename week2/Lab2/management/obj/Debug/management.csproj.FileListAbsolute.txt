@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\obj\Debug\management.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\obj\Debug\management.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\bin\Debug\management.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\bin\Debug\management.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\bin\Debug\management.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\obj\Debug\management.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week2\management\obj\Debug\management.pdb
