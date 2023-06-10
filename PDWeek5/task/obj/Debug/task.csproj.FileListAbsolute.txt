@@ -1,0 +1,10 @@
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\bin\Debug\task.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\bin\Debug\task.exe
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\bin\Debug\task.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\obj\Debug\task.exe
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\obj\Debug\task.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\bin\Debug\EZInput.dll
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\bin\Debug\EZInput.xml
+C:\Users\abdul sattar\OneDrive\Desktop\Game\task\obj\Debug\task.csproj.CopyComplete
