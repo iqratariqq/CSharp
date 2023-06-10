@@ -1,0 +1,3 @@
+orange,fruit,90,3
+chocolate,grocery,89,10
+gug,hjh,899,10

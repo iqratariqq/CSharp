@@ -1,0 +1,8 @@
+iqra,123as,admin
+noo,4,customer
+noor,12,cutomer
+maria,12,customer
+iqra,29,customer
+iqra,123as,admin
+noor,123,customer
+noor,123,customer
