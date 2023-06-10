@@ -1,0 +1,14 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\bin\Debug\selfAssistance.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\bin\Debug\selfAssistance.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\bin\Debug\selfAssistance.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\obj\Debug\selfAssistance.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\obj\Debug\selfAssistance.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\obj\Debug\selfAssistance.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\selfAssistance\obj\Debug\selfAssistance.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\bin\Debug\selfAssistance.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\bin\Debug\selfAssistance.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\bin\Debug\selfAssistance.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\obj\Debug\selfAssistance.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\obj\Debug\selfAssistance.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\obj\Debug\selfAssistance.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week7\task1\selfAssistance\obj\Debug\selfAssistance.pdb

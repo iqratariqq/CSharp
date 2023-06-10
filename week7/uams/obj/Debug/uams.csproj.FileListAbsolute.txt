@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\bin\Debug\uams.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\bin\Debug\uams.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\bin\Debug\uams.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\obj\Debug\uams.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\uams\obj\Debug\uams.pdb

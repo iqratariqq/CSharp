@@ -1,0 +1,3 @@
+orange,drink,60
+fruit,d,2
+chips,eatable,12
