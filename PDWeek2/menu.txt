@@ -1,0 +1,13 @@
+sunday,daal,70
+monday,hjku,67
+tuesday,ghj,90
+wednesday,tyu7,90
+friday,hu,90
+
+sunday,daal,70
+monday,hjku,67
+tuesday,ghj,90
+wednesday,tyu7,90
+friday,hu,90
+,,0
+sunday,wrt,90

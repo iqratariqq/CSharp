@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\bin\Debug\tassk1.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\bin\Debug\tassk1.exe
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\bin\Debug\tassk1.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\obj\Debug\tassk1.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\obj\Debug\tassk1.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\obj\Debug\tassk1.exe
+C:\Users\abdul sattar\OneDrive\Desktop\class\tassk1\obj\Debug\tassk1.pdb
