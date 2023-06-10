@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\bin\Debug\manual3.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\bin\Debug\manual3.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\bin\Debug\manual3.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\obj\Debug\manual3.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\obj\Debug\manual3.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\obj\Debug\manual3.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\manual3\obj\Debug\manual3.pdb

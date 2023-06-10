@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\bin\Debug\pd.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\bin\Debug\pd.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\bin\Debug\pd.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\obj\Debug\pd.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\obj\Debug\pd.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\obj\Debug\pd.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\pd\obj\Debug\pd.pdb

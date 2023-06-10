@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\bin\Debug\selfTask.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\bin\Debug\selfTask.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\bin\Debug\selfTask.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\obj\Debug\selfTask.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\obj\Debug\selfTask.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\obj\Debug\selfTask.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\WEEK1\selfTask\obj\Debug\selfTask.pdb
