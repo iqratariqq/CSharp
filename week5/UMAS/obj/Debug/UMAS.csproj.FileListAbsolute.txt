@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\bin\Debug\UMAS.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\bin\Debug\UMAS.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\bin\Debug\UMAS.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\obj\Debug\UMAS.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week5\UMAS\obj\Debug\UMAS.pdb
