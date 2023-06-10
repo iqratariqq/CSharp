@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\bin\Debug\major.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\bin\Debug\major.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\bin\Debug\major.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\obj\Debug\major.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\obj\Debug\major.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\obj\Debug\major.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\major\obj\Debug\major.pdb

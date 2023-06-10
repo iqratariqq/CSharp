@@ -1,0 +1,7 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\bin\Debug\copyCons.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\bin\Debug\copyCons.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\bin\Debug\copyCons.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\obj\Debug\copyCons.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\obj\Debug\copyCons.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\obj\Debug\copyCons.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\copyCons\obj\Debug\copyCons.pdb
