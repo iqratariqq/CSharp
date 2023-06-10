@@ -1,0 +1,6 @@
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\task2a\bin\Debug\task2a.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\task2a\bin\Debug\task2a.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\task2a\bin\Debug\task2a.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\task2a\obj\Debug\task2a.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\task2a\obj\Debug\task2a.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OOP\week3\task2a\obj\Debug\task2a.pdb
